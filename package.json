@@ -28,5 +28,8 @@
   "homepage": "https://github.com/learn-co-curriculum/js-basics-variables-lab#readme",
   "devDependencies": {
     "learn-browser": "^0.1.13"
+  },
+  "dependencies": {
+    "npm": "^5.8.0"
   }
 }
